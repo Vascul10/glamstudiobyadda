@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fdf6f0;
+    color: #333;
+}
+
+header {
+    background-color: #f3d1d1;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+    color: #8c2f39;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-style: italic;
+}
+
+#galerie {
+    padding: 20px;
+    text-align: center;
+}
+
+#galerie img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+#contact {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+#contact a {
+    color: #8c2f39;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #f3d1d1;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+    color: #444;
+}
